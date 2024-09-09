@@ -1,5 +1,6 @@
 # Miscellaenous code
-
+## jeb脚本文件名称
+tous_decrypt.py，脚本介绍链接：https://cryptax.medium.com/decrypting-strings-with-a-jeb-script-1af522fa4979
 ## Android/Flubot v3.6/v3.7 reverse engineering
 
 - `./flubot/CryptaxRocks.java`: string de-obfuscation
